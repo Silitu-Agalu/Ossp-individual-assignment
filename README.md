@@ -4,5 +4,7 @@ Arch Linux is a minimal and highly customizable Linux distribution. To install i
 
 
 SYSTEM CALL – pipe()
+
+
 The pipe() system call is used to allow two processes to communicate. It creates a one-way data stream between a reader and a writer process. This is commonly used in Linux commands like ls | grep. In Arch Linux, pipe() is part of core process communication. It helps programs work together efficiently by sharing data.
 
